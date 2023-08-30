@@ -1,7 +1,7 @@
 ID: Demo_MTA_Project
-_schema-version: '1.0.0'
+_schema-version: '3.1'
 description: Demo MTA Project
-version: 1.0.0
+version: 0.0.1
 
 parameters:
   dep-space: dev
